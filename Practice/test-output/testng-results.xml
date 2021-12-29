@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="12" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="99" started-at="2021-12-23T22:39:38 IST" finished-at="2021-12-23T22:39:38 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="99" started-at="2021-12-23T22:39:38 IST" finished-at="2021-12-23T22:39:38 IST">
+      <class name="RahulSheetyClasses.StreamTopic">
+        <test-method status="PASS" signature="desortingByDurga()[pri:0, instance:RahulSheetyClasses.StreamTopic@1b68ddbd]" name="desortingByDurga" duration-ms="9" started-at="2021-12-23T22:39:38 IST" finished-at="2021-12-23T22:39:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- desortingByDurga -->
+        <test-method status="PASS" signature="desortingOfStringByDurga()[pri:0, instance:RahulSheetyClasses.StreamTopic@1b68ddbd]" name="desortingOfStringByDurga" duration-ms="8" started-at="2021-12-23T22:39:38 IST" finished-at="2021-12-23T22:39:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- desortingOfStringByDurga -->
+        <test-method status="PASS" signature="minElementInArray()[pri:0, instance:RahulSheetyClasses.StreamTopic@1b68ddbd]" name="minElementInArray" duration-ms="9" started-at="2021-12-23T22:39:38 IST" finished-at="2021-12-23T22:39:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- minElementInArray -->
+        <test-method status="PASS" signature="sortingByLengthByDurga()[pri:0, instance:RahulSheetyClasses.StreamTopic@1b68ddbd]" name="sortingByLengthByDurga" duration-ms="8" started-at="2021-12-23T22:39:38 IST" finished-at="2021-12-23T22:39:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortingByLengthByDurga -->
+        <test-method status="PASS" signature="printValuse()[pri:0, instance:RahulSheetyClasses.StreamTopic@1b68ddbd]" name="printValuse" duration-ms="0" started-at="2021-12-23T22:39:38 IST" finished-at="2021-12-23T22:39:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printValuse -->
+        <test-method status="PASS" signature="toArrayConversion()[pri:0, instance:RahulSheetyClasses.StreamTopic@1b68ddbd]" name="toArrayConversion" duration-ms="8" started-at="2021-12-23T22:39:38 IST" finished-at="2021-12-23T22:39:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toArrayConversion -->
+        <test-method status="PASS" signature="usingStreamCollcet()[pri:0, instance:RahulSheetyClasses.StreamTopic@1b68ddbd]" name="usingStreamCollcet" duration-ms="3" started-at="2021-12-23T22:39:38 IST" finished-at="2021-12-23T22:39:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usingStreamCollcet -->
+        <test-method status="PASS" signature="evenNumbers()[pri:100, instance:RahulSheetyClasses.StreamTopic@1b68ddbd]" name="evenNumbers" duration-ms="8" started-at="2021-12-23T22:39:38 IST" finished-at="2021-12-23T22:39:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- evenNumbers -->
+        <test-method status="PASS" signature="appendString()[pri:101, instance:RahulSheetyClasses.StreamTopic@1b68ddbd]" name="appendString" duration-ms="3" started-at="2021-12-23T22:39:38 IST" finished-at="2021-12-23T22:39:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appendString -->
+      </class> <!-- RahulSheetyClasses.StreamTopic -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
